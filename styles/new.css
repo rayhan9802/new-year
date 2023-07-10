@@ -1,0 +1,60 @@
+.benner-container{
+    height: 100vh;
+    background-image: url("/images/banner/banner1.png");
+    background-size: cover;
+    display: flex;
+    text-align: right;
+    align-items: center;
+    justify-content:right;
+    padding-right: 230px;
+    
+}
+.content{
+    color:#444343;
+font-size: 55px;
+font-weight: bold;
+
+}
+.con-dss{
+    color:#444343;
+    padding-left: 20px; 
+}
+.con-ds{
+    padding-right: 20px;
+ color:#444343;
+  
+}
+.btn{
+    border-radius: 5px;
+background: #F15B22;
+border: 0px;
+padding: 10px 20px;
+color:white;
+}
+.image{
+    width: 400px;
+height: 500px;
+flex-shrink: 0;
+padding:50px;
+}
+.parent{
+    display: flex;
+    text-align: left;
+    align-items:center;
+    padding:100px;
+    background: #FFF;
+}
+.header{
+    color: var #151414;
+    font-size: 40px;
+
+    font-weight:bold;
+     
+}
+.checkbox{
+   
+    align-items: center;
+   justify-content: right;
+   padding-left: 100px;
+}
+
