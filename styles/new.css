@@ -1,6 +1,6 @@
 .benner-container{
     height: 100vh;
-    background-image: url("banner1.png");
+    background-image: url("./banner1.png");
     background-size: cover;
     display: flex;
     text-align: right;
